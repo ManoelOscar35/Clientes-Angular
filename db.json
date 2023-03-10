@@ -1,0 +1,21 @@
+{
+  "contas": [
+    {
+      "banco": "Bradesco",
+      "nomeTipo": "Corrente",
+      "numConta": "12356-000",
+      "id": 1
+    }
+  ],
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Manoel Oscar",
+      "cpf": "123.456.789-00",
+      "idade": "35",
+      "contas": [
+        1
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+.additional-selection {
+    opacity: 0.75;
+    font-size: 0.75em;
+}
+
+.box {
+    display: flex;
+    flex-direction: column;
+}
+
+.box-btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
